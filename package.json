@@ -3,10 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "jest": {
-    "transform": {
-      "^.+\\.js$": "babel-jest",
-      "^.+\\.svg$": "jest-svg-transformer"
-    }
+
   },
   "dependencies": {
     "jest-svg-transformer": "^1.0.0",
